@@ -10,4 +10,6 @@ The current alghotihm is pretty weak. But anyway you can test the application wi
 
 <img src="http://i023.radikal.ru/1410/38/b252b8529ec3.jpg">
 
+You need <a href="http://xmlgraphics.apache.org/" target="_blank">xmlgraphics</a> to compile the project.
+
 ================
