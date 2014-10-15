@@ -6,7 +6,7 @@ The application allows you to convert <b>.wav</b> files into <b><a href="https:/
 
 <img src="http://s020.radikal.ru/i700/1410/46/26a6798e9f5c.jpg">
 
-The current alghotihm is pretty weak. But anyway you can test the application with example file RiversFlowInYou.wav that you can find in the example folder and check out a nice result. But, I've found out very interesting approaches recently. That's why a very strong algorithm is on the way! This includes Hidden Markov Models and clusterization. I'll publish it very soon. Stay tuned!
+The current alghotihm is pretty weak. But anyway you can test the application with example file RiversFlowInYou.wav that you can find in the example folder and check out a nice result. But, I've found out very interesting approaches recently. That's why a very strong algorithm is on the way! This includes <b>Hidden Markov Models</b> and clusterization. I'll publish it very soon. Stay tuned!
 
 <img src="http://i023.radikal.ru/1410/38/b252b8529ec3.jpg">
 
